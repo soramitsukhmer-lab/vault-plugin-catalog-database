@@ -6,7 +6,7 @@
       "iroha-transit": {
         "name": "iroha-transit",
         "version": "1.17.6-iroha-transit-1",
-        "repo": "https://github.com/soramitsukhmer-lab/poc-vault-iroha-integration",
+        "repo": "https://github.com/soramitsukhmer-lab/vault-plugin-iroha-transit-secrets",
         "releases": {
           "linux": {
             "amd64": {
