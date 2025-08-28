@@ -3,7 +3,7 @@
   "version": "v1.0",
   "plugins": {
     "secrets": {
-      "iroha-transit": {
+      "iroha-transit-backport": {
         "name": "iroha-transit",
         "version": "1.17.6-iroha-transit-1",
         "repo": "https://github.com/soramitsukhmer-lab/vault-plugin-iroha-transit-secrets",
